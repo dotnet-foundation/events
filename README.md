@@ -1,5 +1,6 @@
 # Event Sponsorship Requests
 
+This repo is for submitting a request for an event sponsorship. To get started submit an issue.
 
 There are three types of event sponsorship to choose from:
   * In-kind sponsorship
